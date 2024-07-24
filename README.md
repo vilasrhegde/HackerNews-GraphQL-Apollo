@@ -6,9 +6,7 @@
 - pagination
 - realtime updates with GraphQL subscriptions
 
-## How to run?
-1. Open terminal 1: `npm start` 
-2. Open terminal 2: `cd server` then run `npm run dev` you get playground `http://localhost:4000/`
+
 
 ## Things used
 - ReactJS
@@ -18,3 +16,7 @@
 - HTML
 - CSS
 - Javascript
+
+## How to run?
+1. Open terminal 1: `npm start` 
+2. Open terminal 2: `cd server` then run `npm run dev` you get playground `http://localhost:4000/`
